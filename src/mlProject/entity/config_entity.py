@@ -17,3 +17,11 @@ class DataIngestionConfig:
     unzip_dir: Path
 
 #config.yaml e ase data ingestion er configuration thakbe
+
+
+@dataclass(frozen=True)
+class DataValidationConfig:
+    root_dir: Path
+    STATUS_FILE: str
+    unzip_data_dir: Path
+    all_schema: dict
