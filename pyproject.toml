@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mlProject"
+version = "0.0.0"
+description = "A small python package for ml app"
+readme = "README.md"
+authors = [
+    { name="asifikbal", email="ikbal22205101162@diu.edu.bd" }
+]
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/asifikbal/Wine-Quality-Prediction-End-to-End-Project"
+"Bug Tracker" = "https://github.com/asifikbal/Wine-Quality-Prediction-End-to-End-Project/issues"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
