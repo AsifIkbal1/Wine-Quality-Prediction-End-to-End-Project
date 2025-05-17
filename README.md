@@ -80,7 +80,12 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 
 ```
 
+'''export MLFLOW_TRACKING_URI="https://dagshub.com/AsifIkbal1/Wine-Quality-Prediction-End-to-End-Project"
 
+export MLFLOW_TRACKING_USERNAME="AsifIkbal1" 
+
+export MLFLOW_TRACKING_PASSWORD="5060c52e0077a940410147fccd4b7e04c7363288"
+'''
 
 # AWS-CICD-Deployment-with-Github-Actions
 
@@ -166,3 +171,6 @@ MLflow
  - Logging & tagging your model
 
 
+d729dcf9c5c5c8838b54da2c717430e8358d51f8
+
+5060c52e0077a940410147fccd4b7e04c7363288
