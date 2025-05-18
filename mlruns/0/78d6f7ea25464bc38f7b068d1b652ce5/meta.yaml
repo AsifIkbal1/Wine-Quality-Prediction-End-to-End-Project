@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/78d6f7ea25464bc38f7b068d1b652ce5/artifacts
+deleted_time: 1747549772019
+end_time: 1747548947706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 78d6f7ea25464bc38f7b068d1b652ce5
+run_name: glamorous-duck-779
+run_uuid: 78d6f7ea25464bc38f7b068d1b652ce5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747548943157
+status: 3
+tags: []
+user_id: apple

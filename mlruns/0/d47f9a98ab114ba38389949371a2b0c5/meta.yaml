@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/d47f9a98ab114ba38389949371a2b0c5/artifacts
+end_time: 1747552764406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d47f9a98ab114ba38389949371a2b0c5
+run_name: gregarious-snail-878
+run_uuid: d47f9a98ab114ba38389949371a2b0c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747552756043
+status: 3
+tags: []
+user_id: apple

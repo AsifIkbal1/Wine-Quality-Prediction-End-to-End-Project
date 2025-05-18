@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/5abc5093d36544b8814ecb11bbe27229/artifacts
+end_time: 1747552277196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5abc5093d36544b8814ecb11bbe27229
+run_name: indecisive-wasp-724
+run_uuid: 5abc5093d36544b8814ecb11bbe27229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747552271455
+status: 3
+tags: []
+user_id: apple

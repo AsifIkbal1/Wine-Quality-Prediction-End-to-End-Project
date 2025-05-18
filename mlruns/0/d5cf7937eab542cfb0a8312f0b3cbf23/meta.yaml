@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/d5cf7937eab542cfb0a8312f0b3cbf23/artifacts
+deleted_time: 1747549772018
+end_time: 1747549503647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d5cf7937eab542cfb0a8312f0b3cbf23
+run_name: bouncy-dog-625
+run_uuid: d5cf7937eab542cfb0a8312f0b3cbf23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747549499585
+status: 3
+tags: []
+user_id: apple

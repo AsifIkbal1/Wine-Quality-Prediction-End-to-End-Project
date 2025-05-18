@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/2933dda1c1ea4ae1aa5d4778da4ddbc7/artifacts
+deleted_time: 1747549772107
+end_time: 1747538767227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2933dda1c1ea4ae1aa5d4778da4ddbc7
+run_name: burly-auk-542
+run_uuid: 2933dda1c1ea4ae1aa5d4778da4ddbc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747538762188
+status: 3
+tags: []
+user_id: apple

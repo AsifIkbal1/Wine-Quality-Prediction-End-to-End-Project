@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/99cad6fde93d4da480c315319c387889/artifacts
+end_time: 1747552423148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99cad6fde93d4da480c315319c387889
+run_name: adventurous-eel-52
+run_uuid: 99cad6fde93d4da480c315319c387889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747552419149
+status: 3
+tags: []
+user_id: apple

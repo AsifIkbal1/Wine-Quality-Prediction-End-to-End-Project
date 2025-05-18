@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/9d73f6fc947b44779c597b6e94187041/artifacts
+deleted_time: 1747549772108
+end_time: 1747538414693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9d73f6fc947b44779c597b6e94187041
+run_name: casual-skink-389
+run_uuid: 9d73f6fc947b44779c597b6e94187041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747538409298
+status: 4
+tags: []
+user_id: apple

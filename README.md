@@ -174,3 +174,6 @@ MLflow
 d729dcf9c5c5c8838b54da2c717430e8358d51f8
 
 5060c52e0077a940410147fccd4b7e04c7363288
+
+
+mlflow '' http://localhost:5000/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All%20Runs&selectedColumns=attributes.%60Source%60,attributes.%60Models%60&isComparingRuns=false&compareRunCharts=dW5kZWZpbmVk ''

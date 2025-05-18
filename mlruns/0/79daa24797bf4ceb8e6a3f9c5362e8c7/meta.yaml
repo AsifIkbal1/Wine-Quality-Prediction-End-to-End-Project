@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/79daa24797bf4ceb8e6a3f9c5362e8c7/artifacts
+deleted_time: 1747549772109
+end_time: 1747538134747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 79daa24797bf4ceb8e6a3f9c5362e8c7
+run_name: skillful-koi-771
+run_uuid: 79daa24797bf4ceb8e6a3f9c5362e8c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747538130473
+status: 4
+tags: []
+user_id: apple

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/55a2c5aa9f164704a5a5e8faf147db3b/artifacts
+end_time: 1747552444087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55a2c5aa9f164704a5a5e8faf147db3b
+run_name: tasteful-shad-920
+run_uuid: 55a2c5aa9f164704a5a5e8faf147db3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747552440302
+status: 3
+tags: []
+user_id: apple

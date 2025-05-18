@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/7aa8d323822f420ba2738d03ee3b10ca/artifacts
+deleted_time: 1747549772106
+end_time: 1747538632596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7aa8d323822f420ba2738d03ee3b10ca
+run_name: trusting-sponge-925
+run_uuid: 7aa8d323822f420ba2738d03ee3b10ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747538628090
+status: 3
+tags: []
+user_id: apple

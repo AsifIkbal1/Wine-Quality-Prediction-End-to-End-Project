@@ -1,6 +1,6 @@
 from mlProject.constants import *
 from mlProject.utils.common import read_yaml, create_directories
-from mlProject.entity.config_entity import (DataIngestionConfig, DataValidationConfig, DataTransformationConfig, ModelTrainerConfig)
+from mlProject.entity.config_entity import (DataIngestionConfig, DataValidationConfig, DataTransformationConfig, ModelTrainerConfig, ModelEvaluationConfig)
 
 
 class ConfigurationManager:
@@ -85,3 +85,27 @@ class ConfigurationManager:
         )
 
         return model_trainer_config
+    
+
+
+    def get_model_evaluation_config(self) -> ModelEvaluationConfig:
+        # 🔧 কনফিগারেশন, প্যারামিটার এবং টার্গেট কলাম লোড করা হচ্ছে
+        config = self.config.model_evaluation
+        params = self.params.ElasticNet
+        schema = self.schema.TARGET_COLUMN
+
+        # 📂 মডেল ইভ্যালুয়েশনের জন্য রুট ডিরেক্টরি তৈরি
+        create_directories([config.root_dir])
+
+        # ✅ ModelEvaluationConfig অবজেক্ট তৈরি
+        model_evaluation_config = ModelEvaluationConfig(
+            root_dir=config.root_dir,  # 📁 মূল ডিরেক্টরি
+            test_data_path=config.test_data_path,  # 🧪 টেস্ট ডেটার পাথ
+            model_path=config.model_path,  # 🤖 ট্রেইনকৃত মডেল ফাইল পাথ
+            all_params=params,  # ⚙️ মডেল হাইপারপ্যারামিটারস
+            metric_file_name=config.metric_file_name,  # 📊 মেট্রিক সংরক্ষণের জন্য ফাইল পাথ
+            target_column=schema.name,  # 🎯 টার্গেট কলামের নাম
+            mlflow_uri="https://dagshub.com/AsifIkbal1/Wine-Quality-Prediction-End-to-End-Project.mlflow",  # 🌐 MLflow tracking URI
+        )
+
+        return model_evaluation_config  # 🔄 কনফিগারেশন রিটার্ন করা হচ্ছে

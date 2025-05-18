@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/419d00d3490344fe838090cdeb08ec9c/artifacts
+end_time: 1747551747316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 419d00d3490344fe838090cdeb08ec9c
+run_name: clean-snake-420
+run_uuid: 419d00d3490344fe838090cdeb08ec9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747551742664
+status: 3
+tags: []
+user_id: apple

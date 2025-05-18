@@ -40,5 +40,16 @@ Flask
 # 🔁 API রিকোয়েস্টের cross-origin অনুমতির জন্য
 Flask-Cors
 
+
+setuptools==65.5.1  # ⚠️ নতুন setuptools ভার্সনগুলোতে 'distutils._modified' module ta nei
+                    # যেটা kichu পুরোনো লাইব্রেরি (যেমন mlflow) এখনো internally ব্যবহার করে
+                    # তাই এই পুরোনো stable version (65.5.1) use করলে সেই error resolve হয়
+                    # 🔧 মূলত: 'ModuleNotFoundError: No module named distutils._modified' fix করার জন্য
+
+
+
+python-box
+
+
 # 📌 Local package install করার জন্য (setup.py এর উপর ভিত্তি করে)
 -e .

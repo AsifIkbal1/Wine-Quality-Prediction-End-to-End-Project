@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/521b94d3e6e148768218d5cddc0fa901/artifacts
+deleted_time: 1747549772023
+end_time: 1747548822656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 521b94d3e6e148768218d5cddc0fa901
+run_name: big-bird-553
+run_uuid: 521b94d3e6e148768218d5cddc0fa901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747548818682
+status: 3
+tags: []
+user_id: apple

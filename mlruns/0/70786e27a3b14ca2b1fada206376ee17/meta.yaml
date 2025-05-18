@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/70786e27a3b14ca2b1fada206376ee17/artifacts
+end_time: 1747552534512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70786e27a3b14ca2b1fada206376ee17
+run_name: magnificent-eel-828
+run_uuid: 70786e27a3b14ca2b1fada206376ee17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747552529685
+status: 3
+tags: []
+user_id: apple

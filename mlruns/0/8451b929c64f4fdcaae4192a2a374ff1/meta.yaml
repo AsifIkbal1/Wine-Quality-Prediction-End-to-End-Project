@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/8451b929c64f4fdcaae4192a2a374ff1/artifacts
+end_time: 1747552555820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8451b929c64f4fdcaae4192a2a374ff1
+run_name: masked-ant-550
+run_uuid: 8451b929c64f4fdcaae4192a2a374ff1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747552551724
+status: 3
+tags: []
+user_id: apple

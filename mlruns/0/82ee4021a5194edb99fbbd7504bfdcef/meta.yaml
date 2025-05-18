@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/82ee4021a5194edb99fbbd7504bfdcef/artifacts
+end_time: 1747552818328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82ee4021a5194edb99fbbd7504bfdcef
+run_name: abrasive-lark-196
+run_uuid: 82ee4021a5194edb99fbbd7504bfdcef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747552814332
+status: 3
+tags: []
+user_id: apple
