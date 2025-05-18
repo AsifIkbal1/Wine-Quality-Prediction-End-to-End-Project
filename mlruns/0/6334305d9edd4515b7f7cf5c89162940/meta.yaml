@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/Downloads/Project/Wine-Quality-Prediction-End-to-End-Project/mlruns/0/6334305d9edd4515b7f7cf5c89162940/artifacts
+end_time: 1747557613060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6334305d9edd4515b7f7cf5c89162940
+run_name: bemused-rook-794
+run_uuid: 6334305d9edd4515b7f7cf5c89162940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747557607717
+status: 3
+tags: []
+user_id: apple
