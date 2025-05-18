@@ -236,3 +236,11 @@ Train your own model and predict the quality of red wine using this amazing data
 ---
 
 _🔥 Feel free to fork this repo and play around!_
+
+
+RandomForestClassifier -->✅ Accuracy Score: 1.0
+LogisticRegression----> ✅ Accuracy Score: 1.0
+DecisionTreeClassifier----->✅ Accuracy Score: 1.0
+KNeighborsClassifier ---->✅ Accuracy Score: 0.846875
+SVC --->✅ Accuracy Score: 0.821875
+
